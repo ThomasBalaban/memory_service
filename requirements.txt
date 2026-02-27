@@ -1,8 +1,3 @@
-fastapi
-uvicorn[standard]
-httpx
-pydantic
-ollama
-sentence-transformers
-torch
-numpy
+python-socketio[client]==5.11.0
+sentence-transformers==2.5.1
+torch==2.2.1
